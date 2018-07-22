@@ -1,2 +1,2 @@
-# ts-faq
+# TypeScript FAQ
 Frequently asked questions about TypeScript.
