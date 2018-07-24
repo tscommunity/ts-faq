@@ -70,7 +70,13 @@
 
 ```typescript
 abstract class Animal {
-  // todo
+  public abstract shout():void;
+}
+
+class Cat extends Animal {
+  public shout():void {
+    console.log(`Meow ~ Meow ~~`);
+  }
 }
 ```
 
@@ -82,7 +88,7 @@ abstract class Animal {
 class Foo {
   public foo():void {
     const bar = new Foo.Bar();
-    bar.bar(); // console outputs the message 'TypeScript is greate!'.
+    bar.bar(); // The console outputs the message 'TypeScript is greate!'.
   }
   
   private static Bar = class Bar {
