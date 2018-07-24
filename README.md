@@ -15,7 +15,7 @@
 - 学习、使用 TypeScript 有什么前提要求？What are the prerequisites for learning and using TypeScript?
 - 如何正确地、高效地学习 TypeScript？How to learn TypeScript properly and efficiently?
 - TypeScript 的开发工具有哪些？What are the TypeScript development tools?
-- [FAQ 主题 FAQ Topics](#faq-topics)
+- [FAQ 主题 FAQ Topics](#user-content-FAQ-主题-FAQ-Topics)
   - 类型及类型系统 主题 Type and Type System Topics
   - 函数 主题 Function Topics
   - 类 主题 Class Topics
@@ -56,4 +56,36 @@
 
 ## TypeScript 的开发工具有哪些？What are the TypeScript development tools?
 
-<input type="hidden" id="faq-topics" />## FAQ 主题 FAQ Topics
+## FAQ 主题 FAQ Topics
+
+### 类型及类型系统 主题 Type and Type System Topics
+
+### 函数 主题 Function Topics
+
+### 类 主题 Class Topics
+
+- TypeScript 中有抽象类吗？
+- TypeScript 中支持内部类吗？
+- TypeScript 中支持分部类（partial class）特性吗？
+
+### 接口 主题 Interface Topics
+
+### 枚举 主题 Enum Topics
+
+### 继承与扩展 主题 Inheritance and Extension Topics
+
+### 泛型 主题 Generic Topics
+
+### 修饰符 主题 Modifier Topics
+
+### 类型保护 主题 Type Guards Topics
+
+### 类型声明 主题 Type Declaration Topics
+
+### 模块化 主题 Module Topics
+
+### 工程化 主题 Project Organization Topics
+
+### 编译选项 主题 Compilation Topics
+
+### 装饰器 主题 Decorator Topics
