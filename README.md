@@ -16,23 +16,23 @@
 - 如何正确地、高效地学习 TypeScript？How to learn TypeScript properly and efficiently?
 - TypeScript 的开发工具有哪些？What are the TypeScript development tools?
 - [FAQ 主题 FAQ Topics](#user-content-FAQ-主题-FAQ-Topics)
-  - 类型及类型系统 主题 Type and Type System Topics
-  - 函数 主题 Function Topics
-  - 类 主题 Class Topics
+  - [类型及类型系统 主题 Type and Type System Topics](#类型及类型系统-主题-type-and-type-system-topics)
+  - [函数 主题 Function Topics](#函数-主题-function-topics)
+  - [类 主题 Class Topics](#类-主题-class-topics)
     - TypeScript 中有抽象类吗？
     - TypeScript 中支持内部类吗？
     - TypeScript 中支持分部类（partial class）特性吗？
-  - 接口 主题 Interface Topics
-  - 枚举 主题 Enum Topics
-  - 继承与扩展 主题 Inheritance and Extension Topics
-  - 泛型 主题 Generic Topics
-  - 修饰符 主题 Modifier Topics
-  - 类型保护 主题 Type Guards Topics
-  - 类型声明 主题 Type Declaration Topics
-  - 模块化 主题 Module Topics
-  - 工程化 主题 Project Organization Topics
-  - 编译选项 主题 Compilation Topics
-  - 装饰器 主题 Decorator Topics
+  - [接口 主题 Interface Topics](#接口-主题-interface-topics)
+  - [枚举 主题 Enum Topics](#枚举-主题-enum-topics)
+  - [继承与扩展 主题 Inheritance and Extension Topics](#继承与扩展-主题-inheritance-and-extension-topics)
+  - [泛型 主题 Generic Topics](#泛型-主题-generic-topics)
+  - [修饰符 主题 Modifier Topics](#修饰符-主题-modifier-topics)
+  - [类型保护 主题 Type Guards Topics](#类型保护-主题-type-guards-topics)
+  - [类型声明 主题 Type Declaration Topics](#类型声明-主题-type-declaration-topics)
+  - [模块化 主题 Module Topics](#模块化-主题-module-topics)
+  - [工程化 主题 Project Organization Topics](#工程化-主题-project-organization-topics)
+  - [编译选项 主题 Compilation Topics](#编译选项-主题-compilation-topics)
+  - [装饰器 主题 Decorator Topics](#装饰器-主题-decorator-topics)
 
 ------
 
@@ -64,9 +64,11 @@
 
 ### 类 主题 Class Topics
 
-- TypeScript 中有抽象类吗？
-- TypeScript 中支持内部类吗？
-- TypeScript 中支持分部类（partial class）特性吗？
+#### TypeScript 中有抽象类吗？
+
+#### TypeScript 中支持内部类吗？
+
+#### TypeScript 中支持分部类（partial class）特性吗？
 
 ### 接口 主题 Interface Topics
 
