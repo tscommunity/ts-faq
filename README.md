@@ -15,13 +15,13 @@
 - 学习、使用 TypeScript 有什么前提要求？What are the prerequisites for learning and using TypeScript?
 - 如何正确地、高效地学习 TypeScript？How to learn TypeScript properly and efficiently?
 - TypeScript 的开发工具有哪些？What are the TypeScript development tools?
-- [FAQ 主题 FAQ Topics](#user-content-FAQ-主题-FAQ-Topics)
+- [FAQ 主题 FAQ Topics](#faq-主题-faq-topics)
   - [类型及类型系统 主题 Type and Type System Topics](#类型及类型系统-主题-type-and-type-system-topics)
   - [函数 主题 Function Topics](#函数-主题-function-topics)
   - [类 主题 Class Topics](#类-主题-class-topics)
-    - TypeScript 中有抽象类吗？
-    - TypeScript 中支持内部类吗？
-    - TypeScript 中支持分部类（partial class）特性吗？
+    - [TypeScript 中有抽象类吗？](#typescript-中有抽象类吗)
+    - [TypeScript 中支持内部类吗？](#typescript-中支持内部类吗)
+    - [TypeScript 中支持分部类（partial class）吗？](#typescript-中支持分部类partial-class吗)
   - [接口 主题 Interface Topics](#接口-主题-interface-topics)
   - [枚举 主题 Enum Topics](#枚举-主题-enum-topics)
   - [继承与扩展 主题 Inheritance and Extension Topics](#继承与扩展-主题-inheritance-and-extension-topics)
@@ -68,7 +68,7 @@
 
 #### TypeScript 中支持内部类吗？
 
-#### TypeScript 中支持分部类（partial class）特性吗？
+#### TypeScript 中支持分部类（partial class）吗？
 
 ### 接口 主题 Interface Topics
 
