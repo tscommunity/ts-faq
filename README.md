@@ -40,7 +40,7 @@
 
 ​	TypeScript 是由 Microsoft 出品的开源、MIT 授权、用于开发大型 JavaScript 应用程序的新一代编程语言。它是 JavaScript 的一个类型化超集（typed superset），被编译为纯净的 JavaScript，由微软的 C# 之父安德斯 · 海尔斯伯格（Anders Hejlsberg ）主导开发并持续迭代发展。
 
-​	TypeScript 的官方网站是 https://www.typescriptlang.org，开源项目地址是 https://github.com/Microsoft/TypeScript。
+​	TypeScript 的官方网站是 [https://www.typescriptlang.org](https://www.typescriptlang.org)，开源项目地址是 [https://github.com/Microsoft/TypeScript](https://github.com/Microsoft/TypeScript)。
 
 ## TypeScript 为何而出现？
 
@@ -66,7 +66,34 @@
 
 #### TypeScript 中有抽象类吗？
 
+​	TypeScript 中有抽象类，通过关键字 `abstract` 来声明抽象类。例如：
+
+```typescript
+abstract class Animal {
+  // todo
+}
+```
+
 #### TypeScript 中支持内部类吗？
+
+​	TypeScript 中支持内部类，通过对静态字段赋值一个类来实现。例如
+
+```typescript
+class Foo {
+  public foo():void {
+    const bar = new Foo.Bar();
+    bar.bar(); // console outputs the message 'TypeScript is greate!'.
+  }
+  
+  private static Bar = class Bar {
+    public bar():void {
+      console.log(`TypeScript is greate!`);
+    }
+  };
+}
+```
+
+
 
 #### TypeScript 中支持分部类（partial class）吗？
 
