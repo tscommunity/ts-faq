@@ -88,12 +88,12 @@ class Cat extends Animal {
 class Foo {
   public foo():void {
     const bar = new Foo.Bar();
-    bar.bar(); // The console outputs the message 'TypeScript is greate!'.
+    bar.bar(); // The console outputs the message 'TypeScript is great!'.
   }
   
   private static Bar = class Bar {
     public bar():void {
-      console.log(`TypeScript is greate!`);
+      console.log(`TypeScript is great!`);
     }
   };
 }
